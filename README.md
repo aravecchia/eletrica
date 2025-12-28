@@ -1,5 +1,5 @@
 Se vc chegou até aqui, eu entendo que vc é um eletricista ou engenheiro,
-consciente da NR-5410, e sabe de todos os riscos associados às instalações elétricas,
+consciente da NR-5410, sabe de todos os riscos associados às instalações elétricas,
 e sabe que erros aqui, não são admissíveis.
 
 Errar é humano, menos pro eletricista!
